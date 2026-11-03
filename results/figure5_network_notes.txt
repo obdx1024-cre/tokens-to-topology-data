@@ -1,0 +1,2 @@
+Symbol Errors neighbours (9): Blocked Pathways [Spatial Circulation]; Dimension Errors [Ergonomic Layout]; Line & Layer [Graphic Drafting]; Missing Openings [Spatial Circulation]; Missing Spaces [Ergonomic Layout]; Overlapping Elements [Structural Logic]; Poor Room Layout [Ergonomic Layout]; Redundant Elements [Graphic Drafting]; Scale Errors [Graphic Drafting]
+Cross-domain edges: 25/34; Symbol Errors cross-domain edges: 6/9

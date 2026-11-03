@@ -1,0 +1,301 @@
+sample_id,model,model_raw,morphology,bedroom_class,bedroom_count,floor_area_m2,prompted_room_count,log_rooms,error_count,image
+nano_banana_pro_10018,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,47.83,7,1.9459101490553128,10,images/nano_banana_pro/nano_banana_pro_10018.png
+nano_banana_pro_10069,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,4-Bedroom,4,177.05,15,2.70805020110221,4,images/nano_banana_pro/nano_banana_pro_10069.png
+nano_banana_pro_10213,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,83.07,7,1.9459101490553128,4,images/nano_banana_pro/nano_banana_pro_10213.png
+nano_banana_pro_10228,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,3-Bedroom,3,195.42,11,2.3978952727983707,8,images/nano_banana_pro/nano_banana_pro_10228.png
+nano_banana_pro_10351,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,107.57,9,2.19722457733622,28,images/nano_banana_pro/nano_banana_pro_10351.png
+nano_banana_pro_10408,Nano Banana Pro,nano_banana_pro,Rectangular,3-Bedroom,3,111.62,9,2.19722457733622,1,images/nano_banana_pro/nano_banana_pro_10408.png
+nano_banana_pro_10775,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,170.19,13,2.5649493574615367,8,images/nano_banana_pro/nano_banana_pro_10775.png
+nano_banana_pro_11211,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,79.6,9,2.19722457733622,5,images/nano_banana_pro/nano_banana_pro_11211.png
+nano_banana_pro_11218,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,70.7,5,1.6094379124341005,15,images/nano_banana_pro/nano_banana_pro_11218.png
+nano_banana_pro_11390,Nano Banana Pro,nano_banana_pro,L-Shape,1-Bedroom,1,71.64,5,1.6094379124341005,4,images/nano_banana_pro/nano_banana_pro_11390.png
+nano_banana_pro_11511,Nano Banana Pro,nano_banana_pro,L-Shape,1-Bedroom,1,70.25,7,1.9459101490553128,7,images/nano_banana_pro/nano_banana_pro_11511.png
+nano_banana_pro_11602,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,51.06,5,1.6094379124341005,24,images/nano_banana_pro/nano_banana_pro_11602.png
+nano_banana_pro_11662,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,140.16,11,2.3978952727983707,11,images/nano_banana_pro/nano_banana_pro_11662.png
+nano_banana_pro_1212,Nano Banana Pro,nano_banana_pro,L-Shape,1-Bedroom,1,87.41,8,2.079441541679836,10,images/nano_banana_pro/nano_banana_pro_1212.png
+nano_banana_pro_12188,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,74.26,9,2.19722457733622,13,images/nano_banana_pro/nano_banana_pro_12188.png
+nano_banana_pro_12249,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,52.52,6,1.791759469228055,6,images/nano_banana_pro/nano_banana_pro_12249.png
+nano_banana_pro_123,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,4-Bedroom,4,202.0,18,2.8903717578961645,9,images/nano_banana_pro/nano_banana_pro_123.png
+nano_banana_pro_12588,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,110.03,10,2.302585092994046,19,images/nano_banana_pro/nano_banana_pro_12588.png
+nano_banana_pro_12628,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,84.73,12,2.4849066497880004,1,images/nano_banana_pro/nano_banana_pro_12628.png
+nano_banana_pro_12632,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,3-Bedroom,3,158.01,12,2.4849066497880004,10,images/nano_banana_pro/nano_banana_pro_12632.png
+nano_banana_pro_12653,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,97.16,5,1.6094379124341005,5,images/nano_banana_pro/nano_banana_pro_12653.png
+nano_banana_pro_13185,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,93.81,9,2.19722457733622,7,images/nano_banana_pro/nano_banana_pro_13185.png
+nano_banana_pro_13474,Nano Banana Pro,nano_banana_pro,L-Shape,1-Bedroom,1,63.47,6,1.791759469228055,5,images/nano_banana_pro/nano_banana_pro_13474.png
+nano_banana_pro_13627,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,75.72,6,1.791759469228055,10,images/nano_banana_pro/nano_banana_pro_13627.png
+nano_banana_pro_1365,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,96.03,11,2.3978952727983707,8,images/nano_banana_pro/nano_banana_pro_1365.png
+nano_banana_pro_13764,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,82.96,5,1.6094379124341005,7,images/nano_banana_pro/nano_banana_pro_13764.png
+nano_banana_pro_13771,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,41.37,5,1.6094379124341005,1,images/nano_banana_pro/nano_banana_pro_13771.png
+nano_banana_pro_13805,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,64.97,10,2.302585092994046,8,images/nano_banana_pro/nano_banana_pro_13805.png
+nano_banana_pro_13862,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,64.43,8,2.079441541679836,7,images/nano_banana_pro/nano_banana_pro_13862.png
+nano_banana_pro_14052,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,130.67,9,2.19722457733622,15,images/nano_banana_pro/nano_banana_pro_14052.png
+nano_banana_pro_14630,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,106.16,5,1.6094379124341005,4,images/nano_banana_pro/nano_banana_pro_14630.png
+nano_banana_pro_14805,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,67.95,8,2.079441541679836,12,images/nano_banana_pro/nano_banana_pro_14805.png
+nano_banana_pro_1547,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,43.68,5,1.6094379124341005,9,images/nano_banana_pro/nano_banana_pro_1547.png
+nano_banana_pro_1579,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,132.62,9,2.19722457733622,8,images/nano_banana_pro/nano_banana_pro_1579.png
+nano_banana_pro_1595,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,112.84,13,2.5649493574615367,14,images/nano_banana_pro/nano_banana_pro_1595.png
+nano_banana_pro_160,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,58.68,6,1.791759469228055,7,images/nano_banana_pro/nano_banana_pro_160.png
+nano_banana_pro_1648,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,125.8,8,2.079441541679836,6,images/nano_banana_pro/nano_banana_pro_1648.png
+nano_banana_pro_2197,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,101.2,7,1.9459101490553128,16,images/nano_banana_pro/nano_banana_pro_2197.png
+nano_banana_pro_2505,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,180.67,11,2.3978952727983707,5,images/nano_banana_pro/nano_banana_pro_2505.png
+nano_banana_pro_2579,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,4-Bedroom,4,222.63,12,2.4849066497880004,27,images/nano_banana_pro/nano_banana_pro_2579.png
+nano_banana_pro_2600,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,174.28,8,2.079441541679836,19,images/nano_banana_pro/nano_banana_pro_2600.png
+nano_banana_pro_285,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,166.55,12,2.4849066497880004,10,images/nano_banana_pro/nano_banana_pro_285.png
+nano_banana_pro_3147,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,63.1,6,1.791759469228055,3,images/nano_banana_pro/nano_banana_pro_3147.png
+nano_banana_pro_3733,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,118.38,6,1.791759469228055,6,images/nano_banana_pro/nano_banana_pro_3733.png
+nano_banana_pro_4518,Nano Banana Pro,nano_banana_pro,Rectangular,3-Bedroom,3,99.6,8,2.079441541679836,15,images/nano_banana_pro/nano_banana_pro_4518.png
+nano_banana_pro_4667,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,143.02,9,2.19722457733622,14,images/nano_banana_pro/nano_banana_pro_4667.png
+nano_banana_pro_4752,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,182.79,13,2.5649493574615367,29,images/nano_banana_pro/nano_banana_pro_4752.png
+nano_banana_pro_4773,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,141.48,9,2.19722457733622,5,images/nano_banana_pro/nano_banana_pro_4773.png
+nano_banana_pro_4841,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,75.64,5,1.6094379124341005,1,images/nano_banana_pro/nano_banana_pro_4841.png
+nano_banana_pro_4911,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,55.26,6,1.791759469228055,8,images/nano_banana_pro/nano_banana_pro_4911.png
+nano_banana_pro_5530,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,80.73,9,2.19722457733622,6,images/nano_banana_pro/nano_banana_pro_5530.png
+nano_banana_pro_5564,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,79.69,7,1.9459101490553128,5,images/nano_banana_pro/nano_banana_pro_5564.png
+nano_banana_pro_5677,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,91.75,11,2.3978952727983707,14,images/nano_banana_pro/nano_banana_pro_5677.png
+nano_banana_pro_5735,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,64.87,6,1.791759469228055,3,images/nano_banana_pro/nano_banana_pro_5735.png
+nano_banana_pro_5887,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,138.51,13,2.5649493574615367,7,images/nano_banana_pro/nano_banana_pro_5887.png
+nano_banana_pro_5909,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,5-Bedroom,5,277.39,14,2.6390573296152584,6,images/nano_banana_pro/nano_banana_pro_5909.png
+nano_banana_pro_6022,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,99.79,10,2.302585092994046,16,images/nano_banana_pro/nano_banana_pro_6022.png
+nano_banana_pro_6261,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,166.09,9,2.19722457733622,2,images/nano_banana_pro/nano_banana_pro_6261.png
+nano_banana_pro_6299,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,206.06,10,2.302585092994046,8,images/nano_banana_pro/nano_banana_pro_6299.png
+nano_banana_pro_6368,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,2-Bedroom,2,92.44,7,1.9459101490553128,4,images/nano_banana_pro/nano_banana_pro_6368.png
+nano_banana_pro_6542,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,109.86,13,2.5649493574615367,8,images/nano_banana_pro/nano_banana_pro_6542.png
+nano_banana_pro_6565,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,191.02,14,2.6390573296152584,9,images/nano_banana_pro/nano_banana_pro_6565.png
+nano_banana_pro_6572,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,52.66,6,1.791759469228055,4,images/nano_banana_pro/nano_banana_pro_6572.png
+nano_banana_pro_7688,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,3-Bedroom,3,141.57,14,2.6390573296152584,2,images/nano_banana_pro/nano_banana_pro_7688.png
+nano_banana_pro_769,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,4-Bedroom,4,281.62,19,2.9444389791664403,11,images/nano_banana_pro/nano_banana_pro_769.png
+nano_banana_pro_7806,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,3-Bedroom,3,111.42,10,2.302585092994046,11,images/nano_banana_pro/nano_banana_pro_7806.png
+nano_banana_pro_7941,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,3-Bedroom,3,153.0,16,2.772588722239781,3,images/nano_banana_pro/nano_banana_pro_7941.png
+nano_banana_pro_8576,Nano Banana Pro,nano_banana_pro,L-Shape,2-Bedroom,2,72.64,7,1.9459101490553128,4,images/nano_banana_pro/nano_banana_pro_8576.png
+nano_banana_pro_883,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,75.49,9,2.19722457733622,9,images/nano_banana_pro/nano_banana_pro_883.png
+nano_banana_pro_9083,Nano Banana Pro,nano_banana_pro,Rectangular,2-Bedroom,2,64.0,6,1.791759469228055,7,images/nano_banana_pro/nano_banana_pro_9083.png
+nano_banana_pro_9149,Nano Banana Pro,nano_banana_pro,Rectangular,3-Bedroom,3,85.71,8,2.079441541679836,5,images/nano_banana_pro/nano_banana_pro_9149.png
+nano_banana_pro_9218,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,1-Bedroom,1,116.89,10,2.302585092994046,2,images/nano_banana_pro/nano_banana_pro_9218.png
+nano_banana_pro_9219,Nano Banana Pro,nano_banana_pro,Rectangular,1-Bedroom,1,51.71,8,2.079441541679836,7,images/nano_banana_pro/nano_banana_pro_9219.png
+nano_banana_pro_9350,Nano Banana Pro,nano_banana_pro,Rectangular,4-Bedroom,4,91.79,9,2.19722457733622,2,images/nano_banana_pro/nano_banana_pro_9350.png
+nano_banana_pro_9488,Nano Banana Pro,nano_banana_pro,Asymmetrical/Irregular,4-Bedroom,4,144.07,15,2.70805020110221,13,images/nano_banana_pro/nano_banana_pro_9488.png
+nano_banana_pro_954,Nano Banana Pro,nano_banana_pro,Composite/Sprawling,4-Bedroom,4,208.13,15,2.70805020110221,16,images/nano_banana_pro/nano_banana_pro_954.png
+nano_banana_v2_10315,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,79.19,5,1.6094379124341005,12,images/nano_banana_v2/nano_banana_v2_10315.png
+nano_banana_v2_1034,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,279.45,9,2.19722457733622,1,images/nano_banana_v2/nano_banana_v2_1034.png
+nano_banana_v2_10381,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,66.01,5,1.6094379124341005,7,images/nano_banana_v2/nano_banana_v2_10381.png
+nano_banana_v2_10414,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,38.14,6,1.791759469228055,5,images/nano_banana_v2/nano_banana_v2_10414.png
+nano_banana_v2_10487,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,34.69,4,1.3862943611198906,13,images/nano_banana_v2/nano_banana_v2_10487.png
+nano_banana_v2_10510,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,58.74,6,1.791759469228055,5,images/nano_banana_v2/nano_banana_v2_10510.png
+nano_banana_v2_10567,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,72.77,6,1.791759469228055,13,images/nano_banana_v2/nano_banana_v2_10567.png
+nano_banana_v2_10644,Nano Banana 2,nano_banana_v2,Rectangular,3-Bedroom,3,107.21,10,2.302585092994046,9,images/nano_banana_v2/nano_banana_v2_10644.png
+nano_banana_v2_10705,Nano Banana 2,nano_banana_v2,L-Shape,2-Bedroom,2,102.57,12,2.4849066497880004,4,images/nano_banana_v2/nano_banana_v2_10705.png
+nano_banana_v2_10711,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,50.98,5,1.6094379124341005,7,images/nano_banana_v2/nano_banana_v2_10711.png
+nano_banana_v2_10755,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,57.49,3,1.0986122886681098,9,images/nano_banana_v2/nano_banana_v2_10755.png
+nano_banana_v2_10769,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,123.97,7,1.9459101490553128,9,images/nano_banana_v2/nano_banana_v2_10769.png
+nano_banana_v2_1088,Nano Banana 2,nano_banana_v2,Composite/Sprawling,2-Bedroom,2,149.65,13,2.5649493574615367,6,images/nano_banana_v2/nano_banana_v2_1088.png
+nano_banana_v2_11048,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,67.45,9,2.19722457733622,36,images/nano_banana_v2/nano_banana_v2_11048.png
+nano_banana_v2_11195,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,98.12,13,2.5649493574615367,1,images/nano_banana_v2/nano_banana_v2_11195.png
+nano_banana_v2_11299,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,136.36,13,2.5649493574615367,15,images/nano_banana_v2/nano_banana_v2_11299.png
+nano_banana_v2_11447,Nano Banana 2,nano_banana_v2,Composite/Sprawling,3-Bedroom,3,119.39,15,2.70805020110221,13,images/nano_banana_v2/nano_banana_v2_11447.png
+nano_banana_v2_1165,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,79.79,5,1.6094379124341005,6,images/nano_banana_v2/nano_banana_v2_1165.png
+nano_banana_v2_11751,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,78.05,7,1.9459101490553128,9,images/nano_banana_v2/nano_banana_v2_11751.png
+nano_banana_v2_11940,Nano Banana 2,nano_banana_v2,Composite/Sprawling,3-Bedroom,3,103.14,11,2.3978952727983707,17,images/nano_banana_v2/nano_banana_v2_11940.png
+nano_banana_v2_11977,Nano Banana 2,nano_banana_v2,Rectangular,3-Bedroom,3,89.77,7,1.9459101490553128,12,images/nano_banana_v2/nano_banana_v2_11977.png
+nano_banana_v2_12500,Nano Banana 2,nano_banana_v2,Composite/Sprawling,4-Bedroom,4,246.62,14,2.6390573296152584,5,images/nano_banana_v2/nano_banana_v2_12500.png
+nano_banana_v2_12770,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,50.3,7,1.9459101490553128,4,images/nano_banana_v2/nano_banana_v2_12770.png
+nano_banana_v2_12817,Nano Banana 2,nano_banana_v2,Rectangular,3-Bedroom,3,73.61,7,1.9459101490553128,4,images/nano_banana_v2/nano_banana_v2_12817.png
+nano_banana_v2_13300,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,75.3,5,1.6094379124341005,6,images/nano_banana_v2/nano_banana_v2_13300.png
+nano_banana_v2_13469,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,79.34,8,2.079441541679836,9,images/nano_banana_v2/nano_banana_v2_13469.png
+nano_banana_v2_1357,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,83.81,3,1.0986122886681098,15,images/nano_banana_v2/nano_banana_v2_1357.png
+nano_banana_v2_13607,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,50.03,6,1.791759469228055,3,images/nano_banana_v2/nano_banana_v2_13607.png
+nano_banana_v2_13723,Nano Banana 2,nano_banana_v2,L-Shape,2-Bedroom,2,94.7,8,2.079441541679836,7,images/nano_banana_v2/nano_banana_v2_13723.png
+nano_banana_v2_13746,Nano Banana 2,nano_banana_v2,Rectangular,4-Bedroom,4,92.0,7,1.9459101490553128,4,images/nano_banana_v2/nano_banana_v2_13746.png
+nano_banana_v2_14623,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,59.45,6,1.791759469228055,1,images/nano_banana_v2/nano_banana_v2_14623.png
+nano_banana_v2_14627,Nano Banana 2,nano_banana_v2,L-Shape,2-Bedroom,2,105.95,8,2.079441541679836,9,images/nano_banana_v2/nano_banana_v2_14627.png
+nano_banana_v2_14781,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,58.2,6,1.791759469228055,16,images/nano_banana_v2/nano_banana_v2_14781.png
+nano_banana_v2_14881,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,4-Bedroom,4,136.78,14,2.6390573296152584,15,images/nano_banana_v2/nano_banana_v2_14881.png
+nano_banana_v2_1669,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,53.1,6,1.791759469228055,10,images/nano_banana_v2/nano_banana_v2_1669.png
+nano_banana_v2_1694,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,87.58,9,2.19722457733622,3,images/nano_banana_v2/nano_banana_v2_1694.png
+nano_banana_v2_1853,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,67.76,8,2.079441541679836,6,images/nano_banana_v2/nano_banana_v2_1853.png
+nano_banana_v2_1975,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,158.63,11,2.3978952727983707,13,images/nano_banana_v2/nano_banana_v2_1975.png
+nano_banana_v2_20050,Nano Banana 2,nano_banana_v2,Rectangular,3-Bedroom,3,92.92,10,2.302585092994046,4,images/nano_banana_v2/nano_banana_v2_20050.png
+nano_banana_v2_2586,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,5-Bedroom,5,201.18,13,2.5649493574615367,9,images/nano_banana_v2/nano_banana_v2_2586.png
+nano_banana_v2_3551,Nano Banana 2,nano_banana_v2,Rectangular,1-Bedroom,1,70.43,6,1.791759469228055,2,images/nano_banana_v2/nano_banana_v2_3551.png
+nano_banana_v2_3588,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,66.08,7,1.9459101490553128,13,images/nano_banana_v2/nano_banana_v2_3588.png
+nano_banana_v2_3876,Nano Banana 2,nano_banana_v2,Composite/Sprawling,3-Bedroom,3,272.12,19,2.9444389791664403,18,images/nano_banana_v2/nano_banana_v2_3876.png
+nano_banana_v2_3909,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,92.63,11,2.3978952727983707,8,images/nano_banana_v2/nano_banana_v2_3909.png
+nano_banana_v2_3970,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,138.05,10,2.302585092994046,15,images/nano_banana_v2/nano_banana_v2_3970.png
+nano_banana_v2_4712,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,121.51,4,1.3862943611198906,6,images/nano_banana_v2/nano_banana_v2_4712.png
+nano_banana_v2_4862,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,4-Bedroom,4,197.71,17,2.833213344056216,5,images/nano_banana_v2/nano_banana_v2_4862.png
+nano_banana_v2_4906,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,64.64,8,2.079441541679836,14,images/nano_banana_v2/nano_banana_v2_4906.png
+nano_banana_v2_562,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,2-Bedroom,2,90.98,10,2.302585092994046,9,images/nano_banana_v2/nano_banana_v2_562.png
+nano_banana_v2_5692,Nano Banana 2,nano_banana_v2,Composite/Sprawling,4-Bedroom,4,292.45,15,2.70805020110221,11,images/nano_banana_v2/nano_banana_v2_5692.png
+nano_banana_v2_6036,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,4-Bedroom,4,122.98,11,2.3978952727983707,3,images/nano_banana_v2/nano_banana_v2_6036.png
+nano_banana_v2_6208,Nano Banana 2,nano_banana_v2,L-Shape,2-Bedroom,2,91.02,9,2.19722457733622,2,images/nano_banana_v2/nano_banana_v2_6208.png
+nano_banana_v2_6457,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,98.89,8,2.079441541679836,10,images/nano_banana_v2/nano_banana_v2_6457.png
+nano_banana_v2_6484,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,171.95,11,2.3978952727983707,9,images/nano_banana_v2/nano_banana_v2_6484.png
+nano_banana_v2_729,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,51.99,8,2.079441541679836,6,images/nano_banana_v2/nano_banana_v2_729.png
+nano_banana_v2_8220,Nano Banana 2,nano_banana_v2,Composite/Sprawling,4-Bedroom,4,272.23,12,2.4849066497880004,4,images/nano_banana_v2/nano_banana_v2_8220.png
+nano_banana_v2_832,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,88.22,9,2.19722457733622,9,images/nano_banana_v2/nano_banana_v2_832.png
+nano_banana_v2_8385,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,136.6,11,2.3978952727983707,16,images/nano_banana_v2/nano_banana_v2_8385.png
+nano_banana_v2_8486,Nano Banana 2,nano_banana_v2,L-Shape,2-Bedroom,2,98.65,6,1.791759469228055,6,images/nano_banana_v2/nano_banana_v2_8486.png
+nano_banana_v2_914,Nano Banana 2,nano_banana_v2,Composite/Sprawling,5-Bedroom,5,330.24,16,2.772588722239781,12,images/nano_banana_v2/nano_banana_v2_914.png
+nano_banana_v2_922,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,136.99,11,2.3978952727983707,11,images/nano_banana_v2/nano_banana_v2_922.png
+nano_banana_v2_9318,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,1-Bedroom,1,79.65,7,1.9459101490553128,11,images/nano_banana_v2/nano_banana_v2_9318.png
+nano_banana_v2_9709,Nano Banana 2,nano_banana_v2,L-Shape,1-Bedroom,1,58.5,9,2.19722457733622,6,images/nano_banana_v2/nano_banana_v2_9709.png
+nano_banana_v2_9844,Nano Banana 2,nano_banana_v2,Rectangular,2-Bedroom,2,124.64,7,1.9459101490553128,9,images/nano_banana_v2/nano_banana_v2_9844.png
+nano_banana_v2_986,Nano Banana 2,nano_banana_v2,Asymmetrical/Irregular,3-Bedroom,3,121.35,8,2.079441541679836,3,images/nano_banana_v2/nano_banana_v2_986.png
+nano_banana_v2_9902,Nano Banana 2,nano_banana_v2,Composite/Sprawling,4-Bedroom,4,200.74,21,3.044522437723423,9,images/nano_banana_v2/nano_banana_v2_9902.png
+openai_v1_1,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,104.82,13,2.5649493574615367,3,images/openai_v1/openai_v1_1.png
+openai_v1_10089,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,101.48,9,2.19722457733622,16,images/openai_v1/openai_v1_10089.png
+openai_v1_10116,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,81.22,9,2.19722457733622,6,images/openai_v1/openai_v1_10116.png
+openai_v1_10147,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,105.96,7,1.9459101490553128,3,images/openai_v1/openai_v1_10147.png
+openai_v1_10149,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,112.78,9,2.19722457733622,5,images/openai_v1/openai_v1_10149.png
+openai_v1_10162,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,83.18,8,2.079441541679836,10,images/openai_v1/openai_v1_10162.png
+openai_v1_10413,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,56.87,9,2.19722457733622,6,images/openai_v1/openai_v1_10413.png
+openai_v1_10415,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,48.55,7,1.9459101490553128,13,images/openai_v1/openai_v1_10415.png
+openai_v1_10722,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,81.75,7,1.9459101490553128,1,images/openai_v1/openai_v1_10722.png
+openai_v1_1100,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,68.3,7,1.9459101490553128,11,images/openai_v1/openai_v1_1100.png
+openai_v1_11031,GPT-Image-1,openai_v1,Asymmetrical/Irregular,4-Bedroom,4,96.21,9,2.19722457733622,9,images/openai_v1/openai_v1_11031.png
+openai_v1_1109,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,113.16,12,2.4849066497880004,20,images/openai_v1/openai_v1_1109.png
+openai_v1_11110,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,174.4,13,2.5649493574615367,15,images/openai_v1/openai_v1_11110.png
+openai_v1_11479,GPT-Image-1,openai_v1,L-Shape,1-Bedroom,1,64.79,5,1.6094379124341005,6,images/openai_v1/openai_v1_11479.png
+openai_v1_11750,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,117.51,8,2.079441541679836,9,images/openai_v1/openai_v1_11750.png
+openai_v1_11951,GPT-Image-1,openai_v1,Composite/Sprawling,3-Bedroom,3,261.64,17,2.833213344056216,12,images/openai_v1/openai_v1_11951.png
+openai_v1_12533,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,67.17,6,1.791759469228055,3,images/openai_v1/openai_v1_12533.png
+openai_v1_12585,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,69.93,5,1.6094379124341005,6,images/openai_v1/openai_v1_12585.png
+openai_v1_12729,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,99.91,8,2.079441541679836,9,images/openai_v1/openai_v1_12729.png
+openai_v1_12789,GPT-Image-1,openai_v1,Rectangular,4-Bedroom,4,89.82,11,2.3978952727983707,9,images/openai_v1/openai_v1_12789.png
+openai_v1_12867,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,75.99,8,2.079441541679836,22,images/openai_v1/openai_v1_12867.png
+openai_v1_12889,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,101.45,10,2.302585092994046,22,images/openai_v1/openai_v1_12889.png
+openai_v1_130,GPT-Image-1,openai_v1,L-Shape,1-Bedroom,1,60.25,5,1.6094379124341005,4,images/openai_v1/openai_v1_130.png
+openai_v1_13053,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,116.84,8,2.079441541679836,15,images/openai_v1/openai_v1_13053.png
+openai_v1_13072,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,82.28,6,1.791759469228055,10,images/openai_v1/openai_v1_13072.png
+openai_v1_1326,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,102.24,8,2.079441541679836,17,images/openai_v1/openai_v1_1326.png
+openai_v1_13486,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,84.6,6,1.791759469228055,13,images/openai_v1/openai_v1_13486.png
+openai_v1_1351,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,58.44,6,1.791759469228055,5,images/openai_v1/openai_v1_1351.png
+openai_v1_13608,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,70.43,6,1.791759469228055,10,images/openai_v1/openai_v1_13608.png
+openai_v1_13612,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,114.51,7,1.9459101490553128,4,images/openai_v1/openai_v1_13612.png
+openai_v1_13740,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,69.32,6,1.791759469228055,7,images/openai_v1/openai_v1_13740.png
+openai_v1_13850,GPT-Image-1,openai_v1,Composite/Sprawling,4-Bedroom,4,345.01,18,2.8903717578961645,18,images/openai_v1/openai_v1_13850.png
+openai_v1_14036,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,65.0,6,1.791759469228055,8,images/openai_v1/openai_v1_14036.png
+openai_v1_14246,GPT-Image-1,openai_v1,L-Shape,1-Bedroom,1,45.99,4,1.3862943611198906,3,images/openai_v1/openai_v1_14246.png
+openai_v1_14316,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,101.35,8,2.079441541679836,11,images/openai_v1/openai_v1_14316.png
+openai_v1_14410,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,103.01,8,2.079441541679836,3,images/openai_v1/openai_v1_14410.png
+openai_v1_14973,GPT-Image-1,openai_v1,Composite/Sprawling,4-Bedroom,4,266.41,10,2.302585092994046,19,images/openai_v1/openai_v1_14973.png
+openai_v1_1565,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,42.99,5,1.6094379124341005,6,images/openai_v1/openai_v1_1565.png
+openai_v1_1944,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,94.52,7,1.9459101490553128,13,images/openai_v1/openai_v1_1944.png
+openai_v1_20210,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,116.2,8,2.079441541679836,15,images/openai_v1/openai_v1_20210.png
+openai_v1_334,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,147.9,12,2.4849066497880004,8,images/openai_v1/openai_v1_334.png
+openai_v1_3534,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,156.41,9,2.19722457733622,13,images/openai_v1/openai_v1_3534.png
+openai_v1_361,GPT-Image-1,openai_v1,Asymmetrical/Irregular,4-Bedroom,4,150.47,12,2.4849066497880004,5,images/openai_v1/openai_v1_361.png
+openai_v1_3692,GPT-Image-1,openai_v1,Composite/Sprawling,4-Bedroom,4,209.05,15,2.70805020110221,11,images/openai_v1/openai_v1_3692.png
+openai_v1_3842,GPT-Image-1,openai_v1,Asymmetrical/Irregular,4-Bedroom,4,252.8,11,2.3978952727983707,10,images/openai_v1/openai_v1_3842.png
+openai_v1_3925,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,55.03,5,1.6094379124341005,14,images/openai_v1/openai_v1_3925.png
+openai_v1_4011,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,84.01,7,1.9459101490553128,13,images/openai_v1/openai_v1_4011.png
+openai_v1_4524,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,142.07,7,1.9459101490553128,4,images/openai_v1/openai_v1_4524.png
+openai_v1_4528,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,52.51,5,1.6094379124341005,12,images/openai_v1/openai_v1_4528.png
+openai_v1_4649,GPT-Image-1,openai_v1,L-Shape,1-Bedroom,1,58.28,5,1.6094379124341005,6,images/openai_v1/openai_v1_4649.png
+openai_v1_5702,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,57.85,5,1.6094379124341005,9,images/openai_v1/openai_v1_5702.png
+openai_v1_5777,GPT-Image-1,openai_v1,Composite/Sprawling,4-Bedroom,4,303.39,14,2.6390573296152584,11,images/openai_v1/openai_v1_5777.png
+openai_v1_5814,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,84.66,8,2.079441541679836,9,images/openai_v1/openai_v1_5814.png
+openai_v1_5884,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,116.97,10,2.302585092994046,14,images/openai_v1/openai_v1_5884.png
+openai_v1_5988,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,83.97,5,1.6094379124341005,10,images/openai_v1/openai_v1_5988.png
+openai_v1_5996,GPT-Image-1,openai_v1,L-Shape,3-Bedroom,3,81.12,8,2.079441541679836,8,images/openai_v1/openai_v1_5996.png
+openai_v1_6079,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,110.86,10,2.302585092994046,15,images/openai_v1/openai_v1_6079.png
+openai_v1_6402,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,135.0,9,2.19722457733622,7,images/openai_v1/openai_v1_6402.png
+openai_v1_6617,GPT-Image-1,openai_v1,L-Shape,3-Bedroom,3,162.95,13,2.5649493574615367,14,images/openai_v1/openai_v1_6617.png
+openai_v1_6648,GPT-Image-1,openai_v1,Composite/Sprawling,5-Bedroom,5,311.67,19,2.9444389791664403,11,images/openai_v1/openai_v1_6648.png
+openai_v1_6726,GPT-Image-1,openai_v1,Asymmetrical/Irregular,3-Bedroom,3,102.64,9,2.19722457733622,13,images/openai_v1/openai_v1_6726.png
+openai_v1_719,GPT-Image-1,openai_v1,L-Shape,3-Bedroom,3,91.49,7,1.9459101490553128,5,images/openai_v1/openai_v1_719.png
+openai_v1_72,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,59.74,6,1.791759469228055,4,images/openai_v1/openai_v1_72.png
+openai_v1_7730,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,108.76,9,2.19722457733622,7,images/openai_v1/openai_v1_7730.png
+openai_v1_774,GPT-Image-1,openai_v1,L-Shape,2-Bedroom,2,124.45,12,2.4849066497880004,4,images/openai_v1/openai_v1_774.png
+openai_v1_7758,GPT-Image-1,openai_v1,Asymmetrical/Irregular,1-Bedroom,1,76.68,6,1.791759469228055,14,images/openai_v1/openai_v1_7758.png
+openai_v1_783,GPT-Image-1,openai_v1,Composite/Sprawling,5-Bedroom,5,355.05,12,2.4849066497880004,16,images/openai_v1/openai_v1_783.png
+openai_v1_8059,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,46.92,6,1.791759469228055,7,images/openai_v1/openai_v1_8059.png
+openai_v1_8154,GPT-Image-1,openai_v1,Rectangular,1-Bedroom,1,44.02,6,1.791759469228055,17,images/openai_v1/openai_v1_8154.png
+openai_v1_8174,GPT-Image-1,openai_v1,Composite/Sprawling,3-Bedroom,3,254.98,11,2.3978952727983707,5,images/openai_v1/openai_v1_8174.png
+openai_v1_8308,GPT-Image-1,openai_v1,L-Shape,1-Bedroom,1,61.48,4,1.3862943611198906,4,images/openai_v1/openai_v1_8308.png
+openai_v1_8314,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,79.99,6,1.791759469228055,11,images/openai_v1/openai_v1_8314.png
+openai_v1_8344,GPT-Image-1,openai_v1,Composite/Sprawling,2-Bedroom,2,173.08,7,1.9459101490553128,8,images/openai_v1/openai_v1_8344.png
+openai_v1_8741,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,144.75,12,2.4849066497880004,11,images/openai_v1/openai_v1_8741.png
+openai_v1_8798,GPT-Image-1,openai_v1,Rectangular,3-Bedroom,3,100.52,8,2.079441541679836,8,images/openai_v1/openai_v1_8798.png
+openai_v1_8808,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,116.66,8,2.079441541679836,14,images/openai_v1/openai_v1_8808.png
+openai_v1_90,GPT-Image-1,openai_v1,Rectangular,2-Bedroom,2,62.82,7,1.9459101490553128,13,images/openai_v1/openai_v1_90.png
+openai_v1_9037,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,90.81,10,2.302585092994046,5,images/openai_v1/openai_v1_9037.png
+openai_v1_9985,GPT-Image-1,openai_v1,Asymmetrical/Irregular,2-Bedroom,2,122.04,7,1.9459101490553128,16,images/openai_v1/openai_v1_9985.png
+openai_v2_10140,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,87.94,6,1.791759469228055,9,images/openai_v2/openai_v2_10140.png
+openai_v2_10190,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,65.96,7,1.9459101490553128,6,images/openai_v2/openai_v2_10190.png
+openai_v2_10599,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,133.53,7,1.9459101490553128,10,images/openai_v2/openai_v2_10599.png
+openai_v2_10630,GPT-Image-2,openai_v2,Composite/Sprawling,3-Bedroom,3,160.68,16,2.772588722239781,10,images/openai_v2/openai_v2_10630.png
+openai_v2_10756,GPT-Image-2,openai_v2,Asymmetrical/Irregular,1-Bedroom,1,33.33,5,1.6094379124341005,12,images/openai_v2/openai_v2_10756.png
+openai_v2_10781,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,244.44,9,2.19722457733622,2,images/openai_v2/openai_v2_10781.png
+openai_v2_11184,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,64.71,6,1.791759469228055,6,images/openai_v2/openai_v2_11184.png
+openai_v2_11196,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,99.11,10,2.302585092994046,7,images/openai_v2/openai_v2_11196.png
+openai_v2_11606,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,77.06,6,1.791759469228055,3,images/openai_v2/openai_v2_11606.png
+openai_v2_11815,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,57.33,5,1.6094379124341005,6,images/openai_v2/openai_v2_11815.png
+openai_v2_11833,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,59.79,6,1.791759469228055,4,images/openai_v2/openai_v2_11833.png
+openai_v2_11837,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,108.96,8,2.079441541679836,10,images/openai_v2/openai_v2_11837.png
+openai_v2_1184,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,52.75,5,1.6094379124341005,9,images/openai_v2/openai_v2_1184.png
+openai_v2_12107,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,140.66,9,2.19722457733622,5,images/openai_v2/openai_v2_12107.png
+openai_v2_12166,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,86.23,8,2.079441541679836,16,images/openai_v2/openai_v2_12166.png
+openai_v2_12211,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,86.95,7,1.9459101490553128,10,images/openai_v2/openai_v2_12211.png
+openai_v2_12285,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,107.48,11,2.3978952727983707,22,images/openai_v2/openai_v2_12285.png
+openai_v2_12489,GPT-Image-2,openai_v2,Composite/Sprawling,2-Bedroom,2,296.24,14,2.6390573296152584,17,images/openai_v2/openai_v2_12489.png
+openai_v2_12705,GPT-Image-2,openai_v2,Composite/Sprawling,3-Bedroom,3,127.29,8,2.079441541679836,15,images/openai_v2/openai_v2_12705.png
+openai_v2_12735,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,100.02,12,2.4849066497880004,8,images/openai_v2/openai_v2_12735.png
+openai_v2_12782,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,79.38,7,1.9459101490553128,7,images/openai_v2/openai_v2_12782.png
+openai_v2_13153,GPT-Image-2,openai_v2,Composite/Sprawling,3-Bedroom,3,165.09,15,2.70805020110221,15,images/openai_v2/openai_v2_13153.png
+openai_v2_13250,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,73.2,8,2.079441541679836,16,images/openai_v2/openai_v2_13250.png
+openai_v2_13258,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,104.54,10,2.302585092994046,4,images/openai_v2/openai_v2_13258.png
+openai_v2_13277,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,69.57,6,1.791759469228055,12,images/openai_v2/openai_v2_13277.png
+openai_v2_1328,GPT-Image-2,openai_v2,Composite/Sprawling,4-Bedroom,4,300.76,16,2.772588722239781,4,images/openai_v2/openai_v2_1328.png
+openai_v2_13556,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,54.23,8,2.079441541679836,13,images/openai_v2/openai_v2_13556.png
+openai_v2_13722,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,56.19,5,1.6094379124341005,15,images/openai_v2/openai_v2_13722.png
+openai_v2_14158,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,92.6,13,2.5649493574615367,8,images/openai_v2/openai_v2_14158.png
+openai_v2_1475,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,154.83,7,1.9459101490553128,2,images/openai_v2/openai_v2_1475.png
+openai_v2_14762,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,54.81,8,2.079441541679836,2,images/openai_v2/openai_v2_14762.png
+openai_v2_14962,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,125.05,16,2.772588722239781,11,images/openai_v2/openai_v2_14962.png
+openai_v2_14964,GPT-Image-2,openai_v2,Composite/Sprawling,4-Bedroom,4,208.16,14,2.6390573296152584,3,images/openai_v2/openai_v2_14964.png
+openai_v2_1745,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,130.15,10,2.302585092994046,13,images/openai_v2/openai_v2_1745.png
+openai_v2_1781,GPT-Image-2,openai_v2,Asymmetrical/Irregular,1-Bedroom,1,130.92,6,1.791759469228055,2,images/openai_v2/openai_v2_1781.png
+openai_v2_1847,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,66.72,5,1.6094379124341005,12,images/openai_v2/openai_v2_1847.png
+openai_v2_1936,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,59.13,5,1.6094379124341005,10,images/openai_v2/openai_v2_1936.png
+openai_v2_1942,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,62.35,7,1.9459101490553128,14,images/openai_v2/openai_v2_1942.png
+openai_v2_1967,GPT-Image-2,openai_v2,Composite/Sprawling,1-Bedroom,1,151.43,9,2.19722457733622,8,images/openai_v2/openai_v2_1967.png
+openai_v2_20022,GPT-Image-2,openai_v2,Asymmetrical/Irregular,1-Bedroom,1,53.99,7,1.9459101490553128,21,images/openai_v2/openai_v2_20022.png
+openai_v2_20026,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,71.7,5,1.6094379124341005,12,images/openai_v2/openai_v2_20026.png
+openai_v2_211,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,97.34,10,2.302585092994046,3,images/openai_v2/openai_v2_211.png
+openai_v2_2577,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,98.59,7,1.9459101490553128,10,images/openai_v2/openai_v2_2577.png
+openai_v2_3252,GPT-Image-2,openai_v2,Composite/Sprawling,4-Bedroom,4,149.08,14,2.6390573296152584,16,images/openai_v2/openai_v2_3252.png
+openai_v2_3546,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,72.2,7,1.9459101490553128,8,images/openai_v2/openai_v2_3546.png
+openai_v2_3865,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,73.83,8,2.079441541679836,6,images/openai_v2/openai_v2_3865.png
+openai_v2_3892,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,79.68,5,1.6094379124341005,6,images/openai_v2/openai_v2_3892.png
+openai_v2_407,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,142.13,9,2.19722457733622,4,images/openai_v2/openai_v2_407.png
+openai_v2_4801,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,63.98,6,1.791759469228055,2,images/openai_v2/openai_v2_4801.png
+openai_v2_5039,GPT-Image-2,openai_v2,Rectangular,3-Bedroom,3,84.59,7,1.9459101490553128,7,images/openai_v2/openai_v2_5039.png
+openai_v2_5124,GPT-Image-2,openai_v2,Asymmetrical/Irregular,4-Bedroom,4,94.15,12,2.4849066497880004,12,images/openai_v2/openai_v2_5124.png
+openai_v2_5680,GPT-Image-2,openai_v2,Asymmetrical/Irregular,4-Bedroom,4,134.3,11,2.3978952727983707,6,images/openai_v2/openai_v2_5680.png
+openai_v2_570,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,96.37,7,1.9459101490553128,8,images/openai_v2/openai_v2_570.png
+openai_v2_5755,GPT-Image-2,openai_v2,Asymmetrical/Irregular,1-Bedroom,1,123.03,15,2.70805020110221,10,images/openai_v2/openai_v2_5755.png
+openai_v2_577,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,138.04,7,1.9459101490553128,4,images/openai_v2/openai_v2_577.png
+openai_v2_5821,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,122.13,7,1.9459101490553128,19,images/openai_v2/openai_v2_5821.png
+openai_v2_5873,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,91.06,6,1.791759469228055,7,images/openai_v2/openai_v2_5873.png
+openai_v2_6003,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,63.29,6,1.791759469228055,14,images/openai_v2/openai_v2_6003.png
+openai_v2_6122,GPT-Image-2,openai_v2,Composite/Sprawling,3-Bedroom,3,348.25,22,3.091042453358316,3,images/openai_v2/openai_v2_6122.png
+openai_v2_6152,GPT-Image-2,openai_v2,Composite/Sprawling,3-Bedroom,3,124.56,14,2.6390573296152584,4,images/openai_v2/openai_v2_6152.png
+openai_v2_6316,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,152.08,13,2.5649493574615367,8,images/openai_v2/openai_v2_6316.png
+openai_v2_6355,GPT-Image-2,openai_v2,Composite/Sprawling,2-Bedroom,2,304.44,12,2.4849066497880004,4,images/openai_v2/openai_v2_6355.png
+openai_v2_6577,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,90.08,5,1.6094379124341005,4,images/openai_v2/openai_v2_6577.png
+openai_v2_6588,GPT-Image-2,openai_v2,L-Shape,3-Bedroom,3,123.98,10,2.302585092994046,12,images/openai_v2/openai_v2_6588.png
+openai_v2_7004,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,108.94,8,2.079441541679836,10,images/openai_v2/openai_v2_7004.png
+openai_v2_702,GPT-Image-2,openai_v2,Asymmetrical/Irregular,2-Bedroom,2,100.19,10,2.302585092994046,10,images/openai_v2/openai_v2_702.png
+openai_v2_7044,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,65.04,7,1.9459101490553128,3,images/openai_v2/openai_v2_7044.png
+openai_v2_7611,GPT-Image-2,openai_v2,Asymmetrical/Irregular,3-Bedroom,3,98.25,17,2.833213344056216,3,images/openai_v2/openai_v2_7611.png
+openai_v2_7773,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,88.64,7,1.9459101490553128,3,images/openai_v2/openai_v2_7773.png
+openai_v2_7818,GPT-Image-2,openai_v2,L-Shape,2-Bedroom,2,84.3,6,1.791759469228055,7,images/openai_v2/openai_v2_7818.png
+openai_v2_7835,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,53.85,6,1.791759469228055,3,images/openai_v2/openai_v2_7835.png
+openai_v2_7965,GPT-Image-2,openai_v2,Rectangular,2-Bedroom,2,114.11,7,1.9459101490553128,8,images/openai_v2/openai_v2_7965.png
+openai_v2_8028,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,57.42,7,1.9459101490553128,9,images/openai_v2/openai_v2_8028.png
+openai_v2_8237,GPT-Image-2,openai_v2,Composite/Sprawling,4-Bedroom,4,227.45,10,2.302585092994046,15,images/openai_v2/openai_v2_8237.png
+openai_v2_8472,GPT-Image-2,openai_v2,Composite/Sprawling,4-Bedroom,4,225.8,14,2.6390573296152584,13,images/openai_v2/openai_v2_8472.png
+openai_v2_9017,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,71.68,5,1.6094379124341005,12,images/openai_v2/openai_v2_9017.png
+openai_v2_9332,GPT-Image-2,openai_v2,Rectangular,1-Bedroom,1,68.39,5,1.6094379124341005,6,images/openai_v2/openai_v2_9332.png
+openai_v2_9456,GPT-Image-2,openai_v2,L-Shape,1-Bedroom,1,54.07,4,1.3862943611198906,2,images/openai_v2/openai_v2_9456.png
+openai_v2_968,GPT-Image-2,openai_v2,L-Shape,3-Bedroom,3,134.2,10,2.302585092994046,2,images/openai_v2/openai_v2_968.png

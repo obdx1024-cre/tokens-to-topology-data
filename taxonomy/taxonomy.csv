@@ -1,0 +1,58 @@
+domain,category,subcategory,severity,errors,share_of_all_errors_pct
+Graphic Drafting,Redundant / Unnecessary Elements,"Redundant Rooms, Entrances & Corridors",Functional,155,5.72
+Graphic Drafting,Redundant / Unnecessary Elements,Redundant Walls & Partitions,Functional,133,4.91
+Graphic Drafting,Redundant / Unnecessary Elements,Redundant Doors,Functional,78,2.88
+Graphic Drafting,Redundant / Unnecessary Elements,"Redundant Voids, Shafts, Graphics & Miscellaneous",Functional,41,1.51
+Graphic Drafting,Redundant / Unnecessary Elements,Redundant Fixtures & Bathrooms,Functional,36,1.33
+Graphic Drafting,Symbol Errors,Space Type / Function Misidentification & General,Cosmetic,95,3.51
+Graphic Drafting,Symbol Errors,Door Symbol Errors,Cosmetic,71,2.62
+Graphic Drafting,Symbol Errors,Room Label / ID Errors,Cosmetic,54,1.99
+Graphic Drafting,Symbol Errors,"Fixture, Furniture & Kitchen Symbol Errors",Cosmetic,41,1.51
+Graphic Drafting,Symbol Errors,Window & Railing Symbol Errors,Cosmetic,28,1.03
+Graphic Drafting,Line & Layer Errors,Wall Thickness & Continuity Errors,Cosmetic,91,3.36
+Graphic Drafting,Line & Layer Errors,Duplicate / Superfluous Lines & Walls,Cosmetic,61,2.25
+Graphic Drafting,Line & Layer Errors,Wall Geometry & Shape Errors,Cosmetic,45,1.66
+Graphic Drafting,Line & Layer Errors,"Wall Type, Door/Column Representation & Plan Scope",Cosmetic,41,1.51
+Graphic Drafting,Line & Layer Errors,Hatching / Fill & Line Type Errors,Cosmetic,25,0.92
+Graphic Drafting,Scale Errors,Elements Too Small,Cosmetic,37,1.37
+Graphic Drafting,Scale Errors,Elements Too Large,Cosmetic,28,1.03
+Graphic Drafting,Scale Errors,Proportional / Relational Errors,Cosmetic,17,0.63
+Graphic Drafting,Scale Errors,Specific Dimensional Standard Violations,Cosmetic,3,0.11
+Spatial Circulation,Missing Openings & Elements,Missing Windows,Critical,287,10.6
+Spatial Circulation,Missing Openings & Elements,Missing Sanitary Fixtures,Critical,78,2.88
+Spatial Circulation,Missing Openings & Elements,Missing Doors,Critical,64,2.36
+Spatial Circulation,Missing Openings & Elements,Missing Furniture & Kitchen Elements,Critical,48,1.77
+Spatial Circulation,Missing Openings & Elements,"Missing Walls, Access & Miscellaneous",Critical,42,1.55
+Spatial Circulation,Misaligned Openings & Elements,Door Position & Direction Errors,Functional,81,2.99
+Spatial Circulation,Misaligned Openings & Elements,Element-to-Wall Alignment Issues,Functional,67,2.47
+Spatial Circulation,Misaligned Openings & Elements,"Entrance, Window & Balcony Placement Errors",Functional,22,0.81
+Spatial Circulation,Misaligned Openings & Elements,Unnecessary / Nowhere Doors & Wrong Door Type,Functional,20,0.74
+Spatial Circulation,Misaligned Openings & Elements,Fixture / Furniture Positioning & Sequence Errors,Functional,18,0.66
+Spatial Circulation,Blocked Pathways & Movement,Missing Access / No Entry,Critical,57,2.1
+Spatial Circulation,Blocked Pathways & Movement,Physical Obstruction by Element,Critical,53,1.96
+Spatial Circulation,Blocked Pathways & Movement,Poor Circulation / Dead-End Network,Critical,23,0.85
+Spatial Circulation,Blocked Pathways & Movement,Unnecessary Elements Blocking Flow,Critical,19,0.7
+Ergonomic Layout,Poor Room Layout & Placement,Room Placement & Configuration Errors,Functional,117,4.32
+Ergonomic Layout,Poor Room Layout & Placement,Wasted / Underutilized Space & General Layout Issues,Functional,73,2.7
+Ergonomic Layout,Poor Room Layout & Placement,Public Space & Open Plan Issues,Functional,70,2.58
+Ergonomic Layout,Poor Room Layout & Placement,Privacy & Separation Violations,Functional,53,1.96
+Ergonomic Layout,Poor Room Layout & Placement,Circulation Space & Corridor Inefficiency,Functional,31,1.14
+Ergonomic Layout,Dimension & Measurement Errors,Illogical / Wrong Dimensions,Cosmetic,58,2.14
+Ergonomic Layout,Dimension & Measurement Errors,Missing Dimensions,Cosmetic,38,1.4
+Ergonomic Layout,Dimension & Measurement Errors,Proportional / Relative Size Errors (in dimensions),Cosmetic,32,1.18
+Ergonomic Layout,Dimension & Measurement Errors,Notation / Formatting Issues,Cosmetic,13,0.48
+Ergonomic Layout,Dimension & Measurement Errors,Unreferenced / Useless Dimensions,Cosmetic,6,0.22
+Ergonomic Layout,Space & Clearance Errors,Room / Space Too Small for Function,Functional,78,2.88
+Ergonomic Layout,Space & Clearance Errors,Corridor / Entrance Width Issues,Functional,25,0.92
+Ergonomic Layout,Space & Clearance Errors,Space Too Narrow / Fixtures Crowded,Functional,17,0.63
+Ergonomic Layout,Space & Clearance Errors,Clearance Between Elements,Functional,16,0.59
+Ergonomic Layout,Space & Clearance Errors,Wasted / Oversized Space,Functional,5,0.18
+Ergonomic Layout,Missing Required Spaces,Missing Core Rooms,Critical,17,0.63
+Ergonomic Layout,Missing Required Spaces,Missing Specific Functional Spaces,Critical,13,0.48
+Ergonomic Layout,Missing Required Spaces,Space Misidentified / Needs Redesignation,Critical,10,0.37
+Structural Logic,Overlapping / Colliding Elements,Door-to-Door / Door-to-Wall Conflicts,Critical,18,0.66
+Structural Logic,Overlapping / Colliding Elements,Element-to-Element Collisions & General Layout Conflicts,Critical,18,0.66
+Structural Logic,Overlapping / Colliding Elements,Door-to-Furniture / Fixture Collisions,Critical,12,0.44
+Regulatory Compliance,Unclear Wall Types,Column Concealment Issues,Functional,15,0.55
+Regulatory Compliance,Unclear Wall Types,Wall Thickness / Type Ambiguity,Functional,11,0.41
+Regulatory Compliance,Unclear Wall Types,Structural Clarity & Shaft Issues,Functional,3,0.11
